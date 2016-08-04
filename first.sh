@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter the num"
+echo "enter the number"
 read num
 if ( $1 -gt $2 )
 then 
